@@ -1,0 +1,25 @@
+Easy
+("Who invented the printing press?", "Isaac Newton", "Thomas Edison", "Alexander Graham Bell", "Johannes Gutenberg", "His invention revolutionized books.", "Johannes Gutenberg")
+("The Renaissance began in which country?", "France", "England", "Germany", "Italy", "It started in cities like Florence.", "Italy")
+("Who was known as Iron Lady?", "Angela Merkel", "Indira Gandhi", "Golda Meir", "Margaret Thatcher", "She was the Prime Minister of the UK.", "Margaret Thatcher")
+("When did World War I start?", "1912", "1913", "1915", "1914", "It began after the assassination of Archduke Ferdinand.", "1914")
+("Which country was first to grant women the right to vote?", "USA", "UK", "Australia", "New Zealand", "It granted this right in 1893.", "New Zealand")
+("Who was the first Emperor of China?", "Han Gaozu", "Sun Tzu", "Confucius", "Qin Shi Huang", "He unified China.", "Qin Shi Huang")
+
+Medium
+("Who was the first President of the USA?", "Abraham Lincoln", "Thomas Jefferson", "John Adams", "George Washington", "He is known as the Father of the Nation.", "George Washington")
+("In which year did World War II end?", "1943", "1944", "1946", "1945", "It ended after the surrender of Japan.", "1945")
+("Who discovered America?", "Vasco da Gama", "Ferdinand Magellan", "James Cook", "Christopher Columbus", "He reached America in 1492.", "Christopher Columbus")
+("The Great Wall of China was built to protect from whom?", "Japanese", "Russians", "Turks", "Mongol Invasions", "They were nomadic warriors from the north.", "Mongol Invasions")
+("When was UNO founded?", "1942", "1943", "1944", "1945", "It was formed after World War II.", "1945")
+("Who was the first man to walk on the moon?", "Buzz Aldrin", "Yuri Gagarin", "Michael Collins", "Neil Armstrong", "He said: ‘One small step for man’.", "Neil Armstrong")
+("When did the French Revolution begin?", "1776", "1785", "1799", "1789", "It started with the storming of the Bastille.", "1789")
+
+Hard
+("When was Pakistan formed?", "15th August 1947", "23rd March 1940", "26th January 1950", "14th August 1947", "It marks Independence Day.", "14th August 1947")
+("Who was the first Governor General of Pakistan?", "Liaquat Ali Khan", "Allama Iqbal", "Ayub Khan", "Quaid-e-Azam Muhammad Ali Jinnah", "He was also the founder of Pakistan.", "Quaid-e-Azam Muhammad Ali Jinnah")
+("Which country gifted the Statue of Liberty to the USA?", "UK", "Germany", "Canada", "France", "It symbolized friendship.", "France")
+("Who was the founder of the Mughal Empire?", "Akbar", "Humayun", "Aurangzeb", "Babur", "He won the Battle of Panipat.", "Babur")
+("When was the League of Nations founded?", "1918", "1919", "1921", "1920", "It was formed after World War I.", "1920")
+("Who was the last Mughal Emperor?", "Aurangzeb", "Akbar II", "Shah Alam II", "Bahadur Shah Zafar", "He was exiled after 1857 revolt.", "Bahadur Shah Zafar")
+("Who was the founder of the Ottoman Empire?", "Mehmed II", "Selim I", "Orhan", "Osman I", "The empire is named after him.", "Osman I")

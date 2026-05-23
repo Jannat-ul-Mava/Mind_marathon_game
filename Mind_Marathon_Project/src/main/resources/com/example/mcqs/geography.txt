@@ -1,0 +1,24 @@
+Easy
+("What is the capital of Italy?", "Milan", "Venice", "Florence", "Rome", "It is home to the Colosseum.", "Rome")
+("Which is the smallest country in the world?", "Monaco", "San Marino", "Liechtenstein", "Vatican City", "It is located inside Rome.", "Vatican City")
+("What is the highest mountain peak in the world?", "K2", "Kangchenjunga", "Lhotse", "Mount Everest", "It is part of the Himalayas.", "Mount Everest")
+("Which country is known as the Land of Thousand Lakes?", "Norway", "Sweden", "Canada", "Finland", "It is a Nordic country.", "Finland")
+("What is the capital of Germany?", "Munich", "Frankfurt", "Hamburg", "Berlin", "The city was divided during the Cold War.", "Berlin")
+("What is the world’s largest island?", "Australia", "Borneo", "Madagascar", "Greenland", "It is mostly covered with ice.", "Greenland")
+("What is the deepest ocean trench?", "Tonga Trench", "Java Trench", "Puerto Rico Trench", "Mariana Trench", "It is located in the Pacific Ocean.", "Mariana Trench")
+
+Medium
+("What is the currency of Japan?", "Won", "Dollar", "Rupee", "Yen", "It is symbolized by ¥.", "Yen")
+("Which desert is the largest in the world?", "Gobi Desert", "Kalahari Desert", "Arabian Desert", "Sahara Desert", "It is located in North Africa.", "Sahara Desert")
+("What is the capital city of Australia?", "Sydney", "Melbourne", "Perth", "Canberra", "It was specially built to be the capital.", "Canberra")
+("Which river flows through London?", "River Seine", "River Danube", "River Rhine", "River Thames", "It is famous for bridges like Tower Bridge.", "River Thames")
+("What is the capital of France?", "Lyon", "Marseille", "Nice", "Paris", "It is known as the City of Love.", "Paris")
+("Which is the largest country by area?", "Canada", "China", "United States", "Russia", "It spans Europe and Asia.", "Russia")
+
+Hard
+("Which is the smallest continent?", "Asia", "Africa", "Europe", "Australia", "It is also a country and a continent.", "Australia")
+("What is the largest ocean in the world?", "Indian Ocean", "Atlantic Ocean", "Arctic Ocean", "Pacific Ocean", "It covers more than 30% of the Earth’s surface.", "Pacific Ocean")
+("Which river is the longest in the world?", "Amazon River", "Yangtze River", "Mississippi River", "Nile River", "It flows through northeastern Africa.", "Nile River")
+("What is the capital of Canada?", "Toronto", "Vancouver", "Montreal", "Ottawa", "It is located in Ontario.", "Ottawa")
+("Which country is known as the Land of the Rising Sun?", "China", "South Korea", "Thailand", "Japan", "The name relates to sunrise in the east.", "Japan")
+("Mount Everest lies between which two countries?", "India and China", "Nepal and India", "Bhutan and China", "Nepal and China", "One of the countries has Kathmandu as its capital.", "Nepal and China")

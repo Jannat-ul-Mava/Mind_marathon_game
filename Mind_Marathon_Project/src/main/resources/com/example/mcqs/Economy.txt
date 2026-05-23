@@ -1,0 +1,25 @@
+Easy
+("What is the currency of the UK?", "Euro", "Dollar", "Franc", "Pound Sterling", "It is symbolized by £.", "Pound Sterling")
+("What is the currency of China?", "Yen", "Won", "Dollar", "Yuan (Renminbi)", "Its official name is Renminbi.", "Yuan (Renminbi)")
+("What is the currency of India?", "Taka", "Yuan", "Dollar", "Rupee", "It is abbreviated as INR.", "Rupee")
+("What is the currency of Bangladesh?", "Rupee", "Rial", "Ringgit", "Taka", "Its symbol is ৳.", "Taka")
+("What is the currency of Russia?", "Euro", "Dollar", "Yuan", "Ruble", "It is written as RUB.", "Ruble")
+("What is the currency of Saudi Arabia?", "Dirham", "Dinar", "Peso", "Riyal", "Used in the birthplace of Islam.", "Riyal")
+("What is the currency of Iran?", "Rupee", "Dinar", "Dirham", "Rial", "It has very high denominations.", "Rial")
+("What is the currency of Turkey?", "Euro", "Ruble", "Peso", "Lira", "Its value was reformed in recent years.", "Lira")
+
+Medium
+("What is the currency of Sri Lanka?", "Taka", "Ringgit", "Baht", "Rupee", "Different from Indian Rupee.", "Rupee")
+("What is the currency of South Korea?", "Yen", "Yuan", "Dollar", "Won", "Its symbol is ₩.", "Won")
+("What is the currency of Malaysia?", "Baht", "Peso", "Rupee", "Ringgit", "Its symbol is RM.", "Ringgit")
+("What is the currency of Indonesia?", "Ringgit", "Baht", "Dollar", "Rupiah", "It has very large numerical values.", "Rupiah")
+("What is the currency of Thailand?", "Rupiah", "Ringgit", "Peso", "Baht", "It is symbolized by ฿.", "Baht")
+("What is the currency of UAE?", "Riyal", "Dinar", "Pound", "Dirham", "Used in Dubai and Abu Dhabi.", "Dirham")
+
+Hard
+("What is the currency of Afghanistan?", "Rupee", "Rial", "Dinar", "Afghani", "It is abbreviated as AFN.", "Afghani")
+("What is the currency of Kuwait?", "Riyal", "Dirham", "Pound", "Dinar", "It is one of the highest-valued currencies.", "Dinar")
+("What is the currency of Nepal?", "Taka", "Yuan", "Afghani", "Rupee", "Closely linked with Indian currency.", "Rupee")
+("What is the currency of Switzerland?", "Euro", "Dollar", "Pound", "Franc", "Known as CHF.", "Franc")
+("What is the currency of Canada?", "Pound", "Euro", "Yen", "Dollar", "Often called the loonie.", "Dollar")
+("What is the currency of Qatar?", "Dirham", "Dinar", "Pound", "Riyal", "Used in a Gulf country.", "Riyal")
